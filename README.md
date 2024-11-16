@@ -11,7 +11,7 @@
 </code></pre>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1287914810821836843.png">
+  <img src="https://discord.c99.nl/widget/theme-4/1137710319666470912.png">
 </p>
 
 <p align="center">
@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowlogsadmin&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=meowlogs&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC" alt="Stats">
 </p>
